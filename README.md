@@ -1,7 +1,6 @@
 # Dashboard-Design
 
-Dashboard Design
-This repository contains a responsive dashboard design built using HTML, CSS, and JavaScript. The dashboard provides an intuitive and visually appealing interface for displaying and managing data.
+This repository contains a responsive dashboard design built using HTML, CSS, and JavaScript with built-in light and dark mode. The dashboard provides an intuitive and visually appealing interface for displaying and managing data.
 
 Features
 Responsive Design: The dashboard layout is designed to adapt and scale seamlessly across different screen sizes and devices, providing a consistent user experience.
